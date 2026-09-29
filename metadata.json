@@ -1,0 +1,6 @@
+{
+  "name": "LOCALOS AI",
+  "description": "AI-powered Google Business Profile, local SEO, reputation and automation platform.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
